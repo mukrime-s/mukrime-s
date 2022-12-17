@@ -4,7 +4,7 @@
 -  🌱 I’m currently learning React.
 - 👀 I am interested in learning programming languages and developing software.
 -  📫 How to reach me: mkrimesagrglu@gmail.com
-
+![mukrime-s's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukrime-s&show_icons=true&theme=radical)
 <!---
 mukrime-s/mukrime-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
