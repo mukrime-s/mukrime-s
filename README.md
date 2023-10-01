@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I’m Mükrime Sağıroğlu<br>💻I am a 3rd year student at Eskişehir Osmangazi University Computer Engineering Department.<br>💻💻My skills: C/ C++ / C# /Java/ MSSQL / HTML / CSS/ Javascript/ React / Kotlin.<br>🌱 I’m currently learning React and Java Spring<br>👀 I am interested in learning programming languages and developing software.<br>📫 How to reach me: mkrimesagrglu@gmail.com
+👋 Hi there, I’m Mükrime Sağıroğlu<br>💻I am a 3rd year student at Eskişehir Osmangazi University Computer Engineering Department.<br>💻💻My skills: Spring Framework /Java/ MSSQL / Javascript/ React .<br>🌱 I’m currently learning React and Java Spring<br>👀 I am interested in learning programming languages and developing software.<br>📫 How to reach me: mkrimesagrglu@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%BCkrime-sa%C4%9F%C4%B1ro%C4%9Flu-68834a202/) 
